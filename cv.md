@@ -42,3 +42,58 @@ Linkedin: [Linkedin](https://www.linkedin.com/in/leon-akkerman/)
 ```
 
 *********
+## Experience:  
+_01.2022 - present_  
+**Freelance**  
+Responsibilities:   
+* creating web pages
+* adding different plugins
+* making, extending and supporting websites and landing pages using html/css and js
+* targeting
+* analytics
+* adding logic stuff
+
+_10.2020 - 05.2022_  
+**LC Waikiki**  
+***Visual Merchandiser***   
+Responsibilities:   
+* analysis sales reports in order to promote thr relevant product
+* tracking current trends to predict sales potential
+* collaborate with other store staff
+* reseach, analysis, defenition and inquiry of the ideal range of products for the store  
+
+_07.2019 - 08.2020_  
+**LC Waikiki**  
+***Visual Merchandiser***   
+Responsibilities:   
+* sales analytics
+* photoreport
+* plan, create and execute overall bussiness VM strategy
+* add new stock
+* open/close store
+* costumer serves on cashdesk
+
+ ## EDUCATION:  
+_02.2022 - 04.2022_  
+**Genius**   
+Web Design  
+
+_10.2020 - 02.2021_  
+**Hillel**   
+Internet Marketing  
+
+_09.2021 - present_   
+**Mate Academy**   
+Front-End Developing   
+ 
+_05.2021 - present_   
+**Interregional Academy of Personnel Management**   
+Information technologies and computer sience  
+
+
+## Languages:
+
+ Ukranian - Native     
+ Russian - Fluent  
+ Spanish - Basic  
+**English** - Uper-Intermediate
