@@ -73,7 +73,7 @@ Responsibilities:
 * open/close store
 * costumer serves on cashdesk
 
- ## EDUCATION:  
+## EDUCATION:  
 _02.2022 - 04.2022_  
 **Genius**   
 Web Design  
@@ -93,7 +93,7 @@ Information technologies and computer sience
 
 ## Languages:
 
- Ukranian - Native     
- Russian - Fluent  
- Spanish - Basic  
+Ukranian - Native     
+Russian - Fluent  
+Spanish - Basic  
 **English** - Uper-Intermediate
